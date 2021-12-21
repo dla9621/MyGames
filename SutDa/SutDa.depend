@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635992221 source:c:\users\smlim\onedrive - 한국디지털미디어고등학교\문서\수민\고1\플밍\sutda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
